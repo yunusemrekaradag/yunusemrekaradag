@@ -1,6 +1,6 @@
 ## Hi there👋  I'm Yunus Emre
 
-🔭I’m currently working on Fullstack Development</br></br>👩‍💻 I’m currently learning C# ,Javascript, Html, Css, SQL </br></br>⚡ I like to develop projects with the technologies I learned.</br></br>
+🔭I’m currently working on Fullstack Development</br></br>👩‍💻 I’m currently learning C#, Javascript, Html, Css, SQL </br></br>⚡ I like to develop projects with the technologies I learned.</br></br>
 
 ## 💬 Social Media & Contact with Me
 <p align="left">
