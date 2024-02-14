@@ -5,7 +5,7 @@
 ## 💬 Social Media & Contact with Me
 <p align="left">
 <a target="_blank" href="https://www.instagram.com/ynsemrekaradag/"><img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a target="_blank" href="https://twitter.com/ynsemrekaradag"><img  src="https://img.shields.io/badge/twitter-00acee?&style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a target="_blank" href="https://twitter.com/21yunusemre83"><img  src="https://img.shields.io/badge/twitter-00acee?&style=for-the-badge&logo=twitter&logoColor=white"></a>
  <a target="_blank" href="https://www.linkedin.com/in/yunusemrekaradag/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  <a target="_blank" href="mailto:ynsmrkaradag@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
